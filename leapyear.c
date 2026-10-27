@@ -13,7 +13,7 @@ int main(void)
 	} 
 	else 
 	{
-		printf("%d 년은 윤년이 아닙니다.\n", year);
+		printf("%d 년은 평년입니다.\n", year);
 	}
 
 	return 0;
